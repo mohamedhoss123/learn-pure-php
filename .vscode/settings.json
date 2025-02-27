@@ -1,0 +1,20 @@
+{
+    "dbcode.connections": [
+        {
+            "connectionId": "h1xFVsaOaDcMOLnPbRjgp",
+            "name": "learn_pure",
+            "driver": "mysql",
+            "connectionType": "host",
+            "host": "localhost",
+            "port": 3306,
+            "ssl": false,
+            "username": "your_database_user",
+            "password": "",
+            "savePassword": "secretStorage",
+            "connectionTimeout": 30,
+            "driverOptions": {
+                "retrievePublickey": true
+            }
+        }
+    ]
+}
